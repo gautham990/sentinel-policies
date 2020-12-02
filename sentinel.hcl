@@ -1,3 +1,3 @@
 policy "aws-tag-enforce" {
-  aws-tag-enforce  = "soft-mandatory"
+  enforcement_level  = "soft-mandatory"
 }
